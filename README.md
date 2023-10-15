@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**mohdaffan3/mohdaffan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My Profile
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I'm Mohd Affan Mujahid.
+- 🌐 I'm a student of Computer Science.
+- 💻 I'm an enthusiastic programmer and Web Developer
+- 🌐 I specialize in Web development.
+- 🛠️ I have knowledge in Prompt Engineering.
+
+
+## My Interests
+
+- 🔍 I'm passionate about exploring new technologies.
+- 🌱 I'm always learning and improving my coding skills.
+- 🌐 I love building web applications and solving real-world problems.
+- 💡 I enjoy working on projects that challenge me.
+- 🤝 I'm interested in interacting with LLM and maximizing their capabilities.
+
+## Contact Me
+- 📫 You can reach me via email at affan.mujahid@hotmail.com
+
+
+
